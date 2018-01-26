@@ -1,1 +1,5 @@
 print('hello world')
+print('This is Master Branch')
+print("A's favorite food is blueberries")
+print("A's favorite music is EDM")
+print("A's astrological sign is Saggitarius")
